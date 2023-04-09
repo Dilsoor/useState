@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import AddForm from './addForm'
+import AddForm from './AddForm'
 import App from './App'
 import FavouriteColor from './FavouriteColor'
 import './index.css'
